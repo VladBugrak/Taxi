@@ -1,4 +1,4 @@
-package com.taxiservice.taxi;
+package com.taxiservice;
 
 import java.io.*;
 
